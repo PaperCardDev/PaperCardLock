@@ -1,0 +1,4 @@
+name: PaperCardLock
+version: '${project.version}'
+main: cn.paper_card.papercardlock.PaperCardLock
+api-version: 1.19
